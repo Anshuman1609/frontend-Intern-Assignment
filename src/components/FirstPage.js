@@ -7,6 +7,7 @@ const firstpage = () => {
       <section className="chapter">
         <h2>Chapter 1: The Beginning</h2>
         <p>This is where the story begins...</p>
+        <P>This is all  dummy content</P>
       </section>
     </>
   )
