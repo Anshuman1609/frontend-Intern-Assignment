@@ -1,6 +1,6 @@
 import React from 'react';
 
-const secondpage = () => {
+const SecondPage = () => {
   return (
     <>
       <section className="chapter">
@@ -11,4 +11,4 @@ const secondpage = () => {
   )
 }
 
-export default secondpage
+export default SecondPage;

@@ -1,10 +1,10 @@
 import React from 'react';
-import FirstPage from '../components/firstpage';
+import FirstPage from '../components/FirstPage';
 
-const first = () => {
+const First = () => {
   return (
     <FirstPage />
   )
 }
 
-export default first;
+export default First;

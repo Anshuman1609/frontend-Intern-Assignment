@@ -1,16 +1,22 @@
+import React from 'react';
 import './App.css';
-import first from './pages/first';
-import second from './pages/second';
-import third from './pages/third';
+import First from '../src/pages/First';
+import Second from '../src/pages/Second';
+import Third from '../src/pages/Third';
+// import {BrowserRouter, Routes, Route} from 'react-router-dom';
 
-function App() {
+const App = () => {
+
+  
+
   return (
-    <>
-      <first/>
-      <second />
-      <third />
-    </>
-  );
+    <div className='App'>
+
+      <First />
+      <Second />
+      <Third />
+    </div>
+  )
 }
 
-export default App;
+export default App

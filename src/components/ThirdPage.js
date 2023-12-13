@@ -1,6 +1,6 @@
 import React from 'react'
 
-const thirdpage = () => {
+const ThirdPage = () => {
   return (
     <>
       <section className="chapter">
@@ -11,4 +11,4 @@ const thirdpage = () => {
   )
 }
 
-export default thirdpage
+export default ThirdPage;

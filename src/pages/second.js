@@ -1,10 +1,10 @@
 import React from 'react';
-import SecondPage from '../components/secondpage';
+import SecondPage from '../components/SecondPage';
 
-const second = () => {
+const Second = () => {
   return (
     <SecondPage />
   )
 }
 
-export default second
+export default Second;

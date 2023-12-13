@@ -4,6 +4,7 @@
   align-items: center;
   text-align: center;
   overflow-x: auto;
+  width: 300%;
 }
 
 header, main, footer {

@@ -1,10 +1,10 @@
 import React from 'react';
-import ThirdPage from '../components/thirdpage';
+import ThirdPage from '../components/ThirdPage';
 
-const third = () => {
+const Third = () => {
   return (
     <ThirdPage />
   )
 }
 
-export default third
+export default Third;
